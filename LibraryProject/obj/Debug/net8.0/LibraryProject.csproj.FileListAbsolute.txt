@@ -1,0 +1,11 @@
+C:\Users\Zeeshan\Desktop\MyProjectlabrelated\LibraryProject\obj\Debug\net8.0\LibraryProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeeshan\Desktop\MyProjectlabrelated\LibraryProject\obj\Debug\net8.0\LibraryProject.AssemblyInfoInputs.cache
+C:\Users\Zeeshan\Desktop\MyProjectlabrelated\LibraryProject\obj\Debug\net8.0\LibraryProject.AssemblyInfo.cs
+C:\Users\Zeeshan\Desktop\MyProjectlabrelated\LibraryProject\obj\Debug\net8.0\LibraryProject.csproj.CoreCompileInputs.cache
+C:\Users\Zeeshan\Desktop\MyProjectlabrelated\LibraryProject\bin\Debug\net8.0\LibraryProject.deps.json
+C:\Users\Zeeshan\Desktop\MyProjectlabrelated\LibraryProject\bin\Debug\net8.0\LibraryProject.dll
+C:\Users\Zeeshan\Desktop\MyProjectlabrelated\LibraryProject\bin\Debug\net8.0\LibraryProject.pdb
+C:\Users\Zeeshan\Desktop\MyProjectlabrelated\LibraryProject\obj\Debug\net8.0\LibraryProject.dll
+C:\Users\Zeeshan\Desktop\MyProjectlabrelated\LibraryProject\obj\Debug\net8.0\refint\LibraryProject.dll
+C:\Users\Zeeshan\Desktop\MyProjectlabrelated\LibraryProject\obj\Debug\net8.0\LibraryProject.pdb
+C:\Users\Zeeshan\Desktop\MyProjectlabrelated\LibraryProject\obj\Debug\net8.0\ref\LibraryProject.dll
